@@ -12,7 +12,7 @@ public class MoveShip : MonoBehaviour
 
     Rigidbody2D myRigid;
     public ParticleSystem myPart;
-  
+  //prueba
 
 
     void Start()
